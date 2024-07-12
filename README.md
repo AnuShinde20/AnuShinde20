@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm AnuShinde</h1>
 <h3 align="center">👀 I’m interested in exploring technology and new ideas come together to make cool stuff happen.</h3>
 
+
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+
 - 🔭 I’m currently working on **Shopping Cart Project**
 
 - 🌱 I’m currently learning **IoT and its applications in various fields.**
